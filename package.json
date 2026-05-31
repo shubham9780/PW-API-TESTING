@@ -1,0 +1,18 @@
+{
+  "name": "pw-api-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.58.1",
+    "@types/node": "^25.9.1",
+    "ajv": "^8.20.0",
+    "ajv-formats": "^3.0.1",
+    "genson-js": "^0.0.8"
+  }
+}
